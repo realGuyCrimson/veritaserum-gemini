@@ -2,8 +2,6 @@
 
 veri-TA-serum blends neural probes, symbolic checks, and adversarial debate to help users challenge their own claims - turning self-deception into an opportunity for reflection.
 
-# Veritaserum-Gemini
-
 > *"The truth serum for your claims"*
 
 **Veritaserum-Gemini** is an AI-powered fact-checking and claim validation tool that helps users challenge their own assertions and combat self-deception. By combining neural probes, symbolic checks, and adversarial debate techniques, it turns potential misinformation into opportunities for reflection and critical thinking.
