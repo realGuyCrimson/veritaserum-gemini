@@ -110,13 +110,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-- Inspired by the concept of Veritaserum from Harry Potter
+- Made for comparative analysis with our github repo: [https://github.com/realGuyCrimson/veritaserum-gptoss](https://github.com/realGuyCrimson/veritaserum-gptoss)
 - Built with Google's Gemini AI
 - Created to promote critical thinking and intellectual honesty
 
-## 📧 Contact
+## 📧 Findings
 
-Project Link: [https://github.com/realGuyCrimson/veritaserum-gemini](https://github.com/realGuyCrimson/veritaserum-gemini)
+Comparative benchmarking showed that gpt-oss-120b is much faster,  but gemini-2.5-flash produces more grounded reasoning. This trade off highlights the importance of tailoring the backbone model to the user’s  priorities (latency vs. interpretability).
 
 ---
 
